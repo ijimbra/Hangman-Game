@@ -1,0 +1,15 @@
+body {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 24px;
+}
+
+.container {
+	margin-left: 100px;
+	margin-top: 150px;
+	margin-bottom: 100px;
+}
+
+#logo {
+	visibility: hidden;
+	margin-left: 50px;	
+}
